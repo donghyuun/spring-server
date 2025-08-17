@@ -4,7 +4,7 @@ name: Java CICD
     }
   push:
     branches:
-     - v2
+     - main
 # x_name: 워크플로우 기본 설정
 # x_description: GitHub Actions 워크플로우 이름과 트리거 조건을 설정하는 블록입니다.
 jobs:
